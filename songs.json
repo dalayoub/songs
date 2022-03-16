@@ -1,0 +1,130 @@
+{
+	"songs" : [
+		
+		{
+		"title": "Marry You",
+		"artists": [
+		"Bruno Mars"
+	     ],"genres":[
+	        "RnB"
+	     ],
+	     "year":
+		 "2011"
+		},
+		
+		
+		{
+		"title": "Thinking Out Loud",
+		"artists": [
+		"Ed Sheeran"
+	     ],"genres":[
+	        "Pop"
+	     ],
+	     "year":
+		 "2014"
+		},
+		
+		
+		{
+		"title": "The Greatest",
+		"artists": [
+		"Sia"
+	     ],"genres":[
+	        "Electro-Pop"
+	     ],
+	     "year":
+		 "2016"
+		},
+		
+		
+		{
+		"title": "I Will Always Love You",
+		"artists": [
+		"Whitney Houston"
+	     ],"genres":[
+	        "Pop"
+	     ],
+	     "year":
+		 "1992"
+		},
+		
+		
+		{
+		"title": "Just The Way You Are",
+		"artists": [
+		"Bruno Mars"
+	     ],"genres":[
+	        "Soft Rock and Pop"
+	     ],
+	     "year":
+		 "2010"
+		},
+		
+		
+		
+		{
+		"title": "All Of Me",
+		"artists": [
+		"John Legend"
+	     ],"genres":[
+	        "Soul"
+	     ],
+	     "year":
+		 "2013"
+		},
+		
+		
+		{
+		"title": "24K Magic",
+		"artists": [
+		"Bruno Mars"
+	     ],"genres":[
+	        "Funk"
+	     ],
+	     "year":
+		 "2016"
+		},
+		
+		
+		{
+		"title": "Can't Hold Us",
+		"artists": [
+		"Macklemore",
+		"Ryan Lewis"
+	     ],"genres":[
+	        "Hip-Hop"
+	     ],
+	     "year":
+		 "2012"
+		},
+		
+		
+		{
+		"title": "Get Lucky",
+		"artists": [
+		"Daft Punk",
+		"Pharrel Williams",
+		"Niall Rogers"
+	     ],"genres":[
+	        "Electronic Dance Music and Hip-Hop"
+	     ],
+	     "year":
+		 "2013"
+		},
+		
+		
+		
+		{
+		"title": "Happy",
+		"artists": [
+		"Pharrel Williams"
+	     ],"genres":[
+	        "Soul Music"
+	     ],
+	     "year":
+		 "2013"
+		},
+		
+		
+	]
+}
